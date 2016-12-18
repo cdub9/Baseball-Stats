@@ -1,5 +1,5 @@
 /*
-Coleman Warren, Section 8, CS 142 Fall 2016 Midterm 2
+This program allows you to create two baseball teams, track their statistics during a game, and report the stats.
 */
 #include <iostream>
 #include <vector>
